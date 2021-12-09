@@ -1,9 +1,9 @@
 
 # change the following according to your student numbers
-echo "1004114, 1004605, 1004271"
+echo "1003683, 1003689"
 
 # change the following according to your environment
-hdfs_namenode="172.31.92.144"
+hdfs_namenode="172.31.85.74"
 
 # don't change following
 
